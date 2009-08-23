@@ -1,0 +1,8 @@
+## Interface: 1800
+## Title: Onoes v0.01
+## Notes: Announce when you have gone below 35/100 mana or health
+## Author: livingood@gmail.com
+## SavedVariables:
+## OptionalDeps: 
+## Dependencies: 
+onoes.xml
